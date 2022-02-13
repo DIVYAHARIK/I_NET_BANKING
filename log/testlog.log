@@ -1,0 +1,46 @@
+2022-02-12 14:10:40,180 - log4j2.properties -INFO - launching  browser
+2022-02-12 14:10:43,344 - log4j2.properties -INFO - launching demo guru browser
+2022-02-12 14:10:45,505 - log4j2.properties -INFO - user name provided
+2022-02-12 14:10:45,671 - log4j2.properties -INFO - password provided
+2022-02-12 14:10:52,111 - log4j2.properties -INFO - Login passed
+2022-02-12 14:10:59,529 - log4j2.properties -INFO - user name provided
+2022-02-12 14:10:59,646 - log4j2.properties -INFO - password provided
+2022-02-12 14:11:06,197 - log4j2.properties -INFO - Login passed
+2022-02-12 14:11:13,509 - log4j2.properties -INFO - user name provided
+2022-02-12 14:11:13,621 - log4j2.properties -INFO - password provided
+2022-02-12 14:11:21,292 - log4j2.properties -INFO - user name provided
+2022-02-12 14:11:21,423 - log4j2.properties -INFO - password provided
+2022-02-12 14:11:27,993 - log4j2.properties -INFO - Login passed
+2022-02-12 14:11:35,158 - log4j2.properties -INFO - user name provided
+2022-02-12 14:11:35,295 - log4j2.properties -INFO - password provided
+2022-02-12 14:11:42,202 - log4j2.properties -INFO - User name is provided
+2022-02-12 14:11:42,342 - log4j2.properties -INFO - Passsword is provided
+2022-02-12 14:11:48,849 - log4j2.properties -INFO - providing customer details....
+2022-02-12 14:12:05,005 - log4j2.properties -INFO - validation started....
+2022-02-12 14:12:05,072 - log4j2.properties -INFO - test case passed....
+2022-02-12 14:12:07,495 - log4j2.properties -INFO - url is opened
+2022-02-12 14:12:07,943 - log4j2.properties -INFO - entered username
+2022-02-12 14:12:08,089 - log4j2.properties -INFO - entered password
+2022-02-12 14:52:54,106 - log4j2.properties -INFO - launching  browser
+2022-02-12 14:52:57,006 - log4j2.properties -INFO - launching demo guru browser
+2022-02-12 14:53:00,351 - log4j2.properties -INFO - user name provided
+2022-02-12 14:53:00,491 - log4j2.properties -INFO - password provided
+2022-02-12 14:53:06,713 - log4j2.properties -INFO - Login passed
+2022-02-12 14:53:14,607 - log4j2.properties -INFO - user name provided
+2022-02-12 14:53:14,745 - log4j2.properties -INFO - password provided
+2022-02-12 14:53:19,965 - log4j2.properties -INFO - Login passed
+2022-02-12 14:53:27,214 - log4j2.properties -INFO - user name provided
+2022-02-12 14:53:27,350 - log4j2.properties -INFO - password provided
+2022-02-12 14:53:35,919 - log4j2.properties -INFO - user name provided
+2022-02-12 14:53:36,031 - log4j2.properties -INFO - password provided
+2022-02-12 14:53:42,778 - log4j2.properties -INFO - Login passed
+2022-02-12 14:53:49,881 - log4j2.properties -INFO - user name provided
+2022-02-12 14:53:50,005 - log4j2.properties -INFO - password provided
+2022-02-12 14:53:58,224 - log4j2.properties -INFO - User name is provided
+2022-02-12 14:53:58,365 - log4j2.properties -INFO - Passsword is provided
+2022-02-12 14:54:04,013 - log4j2.properties -INFO - providing customer details....
+2022-02-12 14:54:19,174 - log4j2.properties -INFO - validation started....
+2022-02-12 14:54:19,239 - log4j2.properties -INFO - test case passed....
+2022-02-12 14:54:20,997 - log4j2.properties -INFO - url is opened
+2022-02-12 14:54:21,121 - log4j2.properties -INFO - entered username
+2022-02-12 14:54:21,447 - log4j2.properties -INFO - entered password

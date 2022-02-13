@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test_ALL(failed)">
+    <classes>
+      <class name="com.I_Net_Banking.TestCases.TC_LoginTest_001">
+        <methods>
+          <include name="setup"/>
+          <include name="logintest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.I_Net_Banking.TestCases.TC_LoginTest_001 -->
+      <class name="com.I_Net_Banking.TestCases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="setup"/>
+          <include name="addNewCustomer"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.I_Net_Banking.TestCases.TC_AddCustomerTest_003 -->
+      <class name="com.I_Net_Banking.TestCases.TC_LoginDDT_002">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="loginDDT"/>
+        </methods>
+      </class> <!-- com.I_Net_Banking.TestCases.TC_LoginDDT_002 -->
+    </classes>
+  </test> <!-- Test_ALL(failed) -->
+</suite> <!-- Failed suite [Suite] -->

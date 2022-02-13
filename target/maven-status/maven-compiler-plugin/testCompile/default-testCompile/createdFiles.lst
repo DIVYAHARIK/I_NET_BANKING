@@ -1,0 +1,11 @@
+com\I_Net_Banking\TestCases\EditCustomer.class
+com\I_Net_Banking\Utilities\XLUtilies.class
+com\I_Net_Banking\TestCases\TC_AddCustomerTest_003.class
+com\I_Net_Banking\TestCases\TC_LoginDDT_002.class
+com\I_Net_Banking\TestCases\TC_LoginTest_001.class
+com\I_Net_Banking\Utilities\ReadConfig.class
+com\I_Net_Banking\TestCases\BaseClass.class
+com\I_Net_Banking\PageObjects\LoginPage.class
+com\I_Net_Banking\Utilities\Reporting.class
+com\I_Net_Banking\TestCases\baseclass_firstcreated.class
+com\I_Net_Banking\PageObjects\AddCustomerPage.class
